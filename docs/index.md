@@ -64,7 +64,7 @@ except ValueError as ve:
 
 #### Pickling and Exception Handling Command Script
 
-![Assignment07_Command Script](docs/Assignment07_Command%20Script.png "Assignment07_Command Script")
+![Assignment07_Command Script](/docs/Assignment07_Command%20Script.png "Assignment07_Command Script")
 
 #### Figure Assignment07_Command Script
 
